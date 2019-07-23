@@ -12,6 +12,7 @@
 		49E3724722E64B6C0082EB01 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49E3724522E64B6C0082EB01 /* Main.storyboard */; };
 		49E3724922E64B6E0082EB01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49E3724822E64B6E0082EB01 /* Assets.xcassets */; };
 		49E3724C22E64B6E0082EB01 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49E3724A22E64B6E0082EB01 /* LaunchScreen.storyboard */; };
+		49E3725422E6559C0082EB01 /* CustomTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E3725322E6559C0082EB01 /* CustomTableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		49E3724822E64B6E0082EB01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49E3724B22E64B6E0082EB01 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49E3724D22E64B6E0082EB01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49E3725322E6559C0082EB01 /* CustomTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				49E3724122E64B6C0082EB01 /* AppDelegate.swift */,
 				49E3724322E64B6C0082EB01 /* ViewController.swift */,
+				49E3725322E6559C0082EB01 /* CustomTableView.swift */,
 				49E3724522E64B6C0082EB01 /* Main.storyboard */,
 				49E3724822E64B6E0082EB01 /* Assets.xcassets */,
 				49E3724A22E64B6E0082EB01 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				49E3724422E64B6C0082EB01 /* ViewController.swift in Sources */,
 				49E3724222E64B6C0082EB01 /* AppDelegate.swift in Sources */,
+				49E3725422E6559C0082EB01 /* CustomTableView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
